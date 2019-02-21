@@ -6,6 +6,8 @@ Location: Zhejiang University
 
 Welcome to attend our research report!
 
+Research materials would be open later.
+
 ## AI + Blockchain
 
 Member: Qibing Li.
