@@ -31,11 +31,11 @@ Member: Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang.
   - Grin Mimblewimble - Zijie Liu & Zhengjie Huang
   - Tor Hidden Service - Zhengjie Huang
 - Difficulty Retarget - Yan Chen
-  - [Bitcoin](./anonymous-cryptocurrency/btc.md)
+  - Bitcoin
   - Monero
   - Masari
 - Anti-ASIC POW - Yan Chen
-  - [Bitcoin](./anonymous-cryptocurrency/btc.md)
+  - Bitcoin
   - Cuckoo Cycle
   - Pascal Random Hash
 
